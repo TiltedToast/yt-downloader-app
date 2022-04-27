@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "yt-dlp-app",
+    "slug": "yt-dlp-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "yt-dlp-app"
+}
